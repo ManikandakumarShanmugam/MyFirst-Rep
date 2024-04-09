@@ -1,0 +1,23 @@
+[33mcommit 8d99f67e1bbd21166c358dad37be8655e02affe7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: ManikandakumarShanmugam <manikandakumar.shanmugam@gmail.com>
+Date:   Mon Apr 8 20:21:16 2024 +0530
+
+    Updated Test.txt file committed in main branch
+
+[33mcommit 6c42ae34564abdf9194485b2b8ad699aa7a44d68[m[33m ([m[1;32mnewBranch[m[33m)[m
+Author: ManikandakumarShanmugam <manikandakumar.shanmugam@gmail.com>
+Date:   Mon Apr 8 20:14:22 2024 +0530
+
+    Added new feature folder and feature text file
+
+[33mcommit 42972daa1451fde257202064482b78e516f0274b[m
+Author: ManikandakumarShanmugam <manikandakumar.shanmugam@gmail.com>
+Date:   Mon Apr 8 19:57:26 2024 +0530
+
+    content modified in text.txt and added new secondFile.txt
+
+[33mcommit 168af00f05cda908f6fd99a8937b4ab3d8e76e7d[m
+Author: ManikandakumarShanmugam <manikandakumar.shanmugam@gmail.com>
+Date:   Mon Apr 8 19:25:54 2024 +0530
+
+    Added Test.txt file in the git
